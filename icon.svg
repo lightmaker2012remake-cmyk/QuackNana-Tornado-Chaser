@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b2430"/>
+      <stop offset="1" stop-color="#3a4654"/>
+    </linearGradient>
+    <linearGradient id="fun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfd6dd"/>
+      <stop offset="1" stop-color="#7d8792"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="22" fill="url(#sky)"/>
+  <path d="M14 30 Q64 10 114 30 Q100 40 64 40 Q28 40 14 30 Z" fill="#11161d"/>
+  <path d="M30 40 Q64 50 98 40 Q88 56 72 60 Q76 76 68 92 Q64 104 60 112 Q58 98 60 86 Q58 70 54 60 Q38 56 30 40 Z" fill="url(#fun)"/>
+  <path d="M40 48 Q64 54 88 48 M48 60 Q64 64 78 59 M55 74 Q64 76 72 73 M57 88 Q63 89 68 87" stroke="#5c6670" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="62" cy="114" rx="22" ry="5" fill="#6b5a46" opacity="0.8"/>
+</svg>
